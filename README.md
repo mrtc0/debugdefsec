@@ -1,6 +1,12 @@
 # debugdefsec
 
-Debug for [defsec](https://github.com/aquasecurity/defsec).
+Dump the result of parsing by [defsec](https://github.com/aquasecurity/defsec).  
+
+# Install
+
+```shell
+$ go install github.com/mrtc0/debugdefsec@latest
+```
 
 # Usage
 
